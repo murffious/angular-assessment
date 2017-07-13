@@ -26,6 +26,10 @@ angular.module("myApp",['ui.router'])
         controller: "productDetailsCtrl"
     
     })
+    // .state('logo', {
+    //     url: '/logo',
+    //     templateUrl: 'logo.html'
+    // })
  
 
 })

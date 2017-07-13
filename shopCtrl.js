@@ -7,13 +7,5 @@ angular.module("myApp").controller("shopCtrl", function ($scope, shopService, $s
         })
     }
     $scope.recShopData()
-//      $scope.id = shopService.getShopData($stateParams.id);
-//    $scope.getId = function(id) {
-// 			for(var i = 0; i < response.data.length; i++) {
-// 				if($scope.shopData.id == id) {
-// 					return $scope.shopData[i];
-// 				}
-// 			}
-// 		}
-//      $scope.getId()
+
 })

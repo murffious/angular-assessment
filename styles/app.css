@@ -13,7 +13,11 @@
     color: #fff;
 }
 
-
+.logo {
+    position: absolute;
+    width: 155px;
+    right: 90px;
+}
 .main-cta {
     width: 45%;
     margin: auto;

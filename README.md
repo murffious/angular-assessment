@@ -63,7 +63,7 @@
 
 ## Part 2
 
-  1. Create a directive that shows an individual product. Move all the styling and data for a specific product into a directive. (The template already exists in `product-tmpl.html`).
+  1. Create a directive that shows an individual product. Move all the styling and data for a specific product into a directive. (The template already exists in `product-tmpl.html`)..
 
   1b. Add in new functionality to your directive.  Each product should now:  
       - Be clickable on the image and collapse the image and show a link that says "show image" instead.   
